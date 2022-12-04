@@ -15,27 +15,21 @@ Pap!Kos dibangun menggunakan [Laravel](http://laravel.com), the best existing PH
 ## Installation
 
 * Install [Composer](https://getcomposer.org/download) and [Npm](https://nodejs.org/en/download)
-* Clone the repository: `git clone https://github.com/andes2912/kos.git`
+* Clone the repository: `git clone https://github.com/faizalaaa/Papikos.git`
 * Install dependencies: `composer install ; npm install ; npm run dev`
 * Run `cp .env.example .env` for create .env file
 * Run `php artisan migrate --seed` for migration database
-* Detail login, Email : `admin@papikos.com` Password `1234567`
+* Detail login admin, Email : `admin@papikos.com` Password `12345678`
+* Detail login pemilik, Email : `faizal@gmail.com` Password `12345678`
+* Detail login pencari, Email : `joko@gmail.com` Password `12345678`
 
 ## Changelog
 
 Please see [Releases](../../releases) for more information what has changed recently.
-    
-## Package
-* [IndoRegion](https://github.com/azishapidin/indoregion) package Laravel untuk menyimpan data wilayah Indonesia
-* [IndoBank](https://github.com/andes2912/indobank) package Laravel untuk menyimpan data Nama Bank yang ada di Indonesia
-    
-## Sponsors
-
-Support Pap!Kos by becoming a sponsor on [Saweria](https://saweria.co/andes2912). Your logo will show up here with a link to your website.
 
 ## Any Questions ?
  
-Please contact me on [Andri Desmana](mailto:andridesmana29@outlook.com?subject=[GitHub]%20Questesion%20Pap!Kos) or [Telegram](https://t.me/andridesmana)
+Please contact me on [Faizal Tri Ardhani Wijaya](mailto:faizal.ardhani12@gmail.com?subject=[GitHub]%20Questesion%20Pap!Kos)
     
 ## License
 
